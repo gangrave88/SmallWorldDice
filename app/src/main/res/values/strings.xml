@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmallWorldDice</string>
+    <string name="drop_dice">Бросить кубик</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play_music">Проигрывать музыку</string>
+    <string name="play_anim">Отображать анимацию</string>
+    <string name="save">Save</string>
+</resources>
